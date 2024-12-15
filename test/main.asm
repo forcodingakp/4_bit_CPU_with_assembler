@@ -1,0 +1,3 @@
+LOAD 3
+LOAD 1
+ADD
